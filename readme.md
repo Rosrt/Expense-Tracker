@@ -123,7 +123,6 @@ Expense added with ID 1.
 * 🎓 B.Tech (Artificial Intelligence & Machine Learning), B.Sc (Mathematics & Physics)
 * 💻 Skills: C++, Python, AI/ML, Backend (Node.js/Express), Frontend (React, Flutter)
 * 📬 Email: [lifeaspirant24@gmail.com](mailto:lifeaspirant24@gmail.com)
-* 📞 Phone: +91 8299181486
 * 🌐 GitHub: [github.com/Rosrt](https://github.com/Rosrt)
 
 ---
